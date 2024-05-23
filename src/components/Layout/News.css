@@ -1,0 +1,35 @@
+#news{ 
+    position: relative; 
+      border:1px solid #777;  
+    background: linear-gradient(110deg, #fdcd3b 60%, #ffed4b 60%);
+      font-family:'Oswald',serif;
+      
+    } 
+    
+    #news, #news #headertext { 
+    padding: 0px; 
+    background-color: #fff; 
+    color: #626060; 
+    font-weight: bold; 
+    } 
+    
+    #news #headertext { 
+    position: absolute; 
+    top: 0; 
+    left: 0; 
+    z-index: 10; 
+    padding: 10px 10px;
+    border-right:1px solid #777;  
+    background:#C8102E;
+     color:#fff ;
+        text-shadow: 1px 1px #111;
+    } 
+    
+    #newsmarquee { 
+    line-height: 1.5; 
+    } 
+    
+    #newsmarquee p { 
+    margin: 0; 
+    
+    } 

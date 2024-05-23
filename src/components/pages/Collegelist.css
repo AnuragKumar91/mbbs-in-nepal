@@ -1,0 +1,172 @@
+#college-card{
+    width: 50%;
+}
+.college-para {
+    margin-top: 20px;
+}
+#sec-college{
+    margin-top: 20px;
+    padding: 10px 30px;
+    background-color: #fff;
+}
+#colleg-list li{
+    list-style-type:disc
+}
+.table-container {
+    margin-top: 20px;
+    padding: 20px 40px;
+  }
+  
+  .mbbs-colleges-table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  
+  .mbbs-colleges-table th,
+  .mbbs-colleges-table td {
+    padding: 8px;
+    text-align: center;
+    border-bottom: 1px solid #ddd;
+  }
+  
+  .mbbs-colleges-table th {
+    background-color: #f2f2f2;
+  }
+  
+  .mbbs-colleges-table tbody tr:nth-child(even) {
+    background-color: #f2f2f2;
+  }
+  
+  .mbbs-colleges-table tbody tr:hover {
+    background-color: #ddd;
+  }
+  
+  .apply-now-btn {
+    padding: 6px 12px;
+    border: none;
+    background-color: #007bff;
+    color: #fff;
+    cursor: pointer;
+  }
+  
+  .apply-now-btn:hover {
+    background-color: #0056b3;
+  }
+  
+  .elementor-widget-container {
+    margin-bottom: 20px;
+    margin: 36px 40px
+  }
+  
+  .elementor-heading-title {
+    font-size: 24px;
+    color: #333;
+    margin-bottom: 10px;
+  }
+  
+  .elementor-widget-container table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  
+  .elementor-widget-container table td {
+    padding: 10px;
+    border-bottom: 1px solid #ddd;
+  }
+  
+  .elementor-widget-container table tr:last-child td {
+    border-bottom: none;
+  }
+  
+  .elementor-widget-container table td:first-child {
+    font-weight: bold;
+    width: 30%;
+    color: black;
+  }
+  
+  .elementor-widget-container table td:not(:first-child) {
+    width: 70%;
+  }
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+  .filter-card {
+    background: #f8f9fa;
+    border: 1px solid #e9ecef;
+    border-radius: 8px;
+    padding: 10px;
+    margin-bottom: 20px;
+  }
+  
+  .dropdown-header {
+    display: flex;
+    justify-content: space-between;
+    cursor: pointer;
+  }
+  
+  .dropdown-icon {
+    transition: transform 0.3s ease;
+  }
+  
+  .dropdown-icon.open {
+    transform: rotate(180deg);
+  }
+  
+  .filter-list {
+    list-style: none;
+    padding: 0;
+    margin-top: 10px;
+  }
+  
+  .filter-list li {
+    padding: 5px 0;
+  }
+  
+  .filter-list input {
+    margin-right: 10px;
+  }
+  
+  .college-card {
+    background: #ffffff;
+    border: 1px solid #e9ecef;
+    border-radius: 8px;
+    display: flex;
+    margin-bottom: 20px;
+    overflow: hidden;
+  }
+  
+  .card-image {
+    flex: 0 0 150px;
+    overflow: hidden;
+  }
+  
+  .card-image img {
+    width: 100%;
+    height: auto;
+  }
+  
+  .card-content {
+    padding: 20px;
+  }
+  
+  .card-content h5 {
+    margin: 0 0 10px;
+    font-size: 22px;
+    font-weight: bold;
+  }
+  
+  .card-content p {
+    margin: 0 0 5px;
+    font-size: 14px;
+  }

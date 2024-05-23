@@ -1,0 +1,74 @@
+#why-list li{
+    list-style-type: disc;
+}
+#course-sec{
+    margin-top: 30px;
+}
+#img-mbbs{
+    width: 100%;
+    height: 500px;
+    margin-top: 50px;
+}
+.course-btn{
+    text-align: center;
+    margin-left: 10px;
+    padding: 10px 20px;
+}
+.course-btn button{
+    margin-left: 20px;
+}
+.course-btn a{
+    margin-left: 20px;
+}
+.whatsapp-button {
+    background-color: #25d366; /* WhatsApp green */
+    color: #fff;
+    font-size: 16px;
+    font-weight: bold;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+  
+  .whatsapp-button:hover {
+    background-color: #128c7e; /* Darker shade of WhatsApp green on hover */
+  }
+
+  #course-he{
+    background-color: #8bbdc4 !important;
+    color: #fff;
+  }
+  #table-striped  {
+    background-color: #ccd3ff;
+  }
+
+  #after-head{
+    background-color: #7c9cab !important;
+    color: #fff;
+  }
+
+  .fa-angle-double-right:before {
+    content: "\f101";
+}
+.cl-green {
+  color: #ff4e00 !important;
+}
+.border-bt-dash {
+  border-bottom: 1px dashed;
+}
+
+.border-light-c2 {
+  border-color: #cbd5e0; /* Assuming light-c2 corresponds to a light color */
+}
+
+.pb-1 {
+  padding-bottom: 0.25rem; /* Assuming pb-1 corresponds to a padding of 0.25rem */
+}
+#eli{
+  margin-top: 10px;
+}
+#elii{
+  margin-top: 20px;
+}

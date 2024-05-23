@@ -1,0 +1,36 @@
+/* CSS for WhyStudyMBBSNepal component */
+
+/* Center align the section heading */
+
+/* CSS for WhyStudyMBBSNepal component */
+
+/* Center align the section heading */
+
+
+/* Style for the list items */
+.list-group {
+  padding-left: 0; /* Remove default padding */
+}
+
+.list-group-item {
+  position: relative; /* Position for tick icon */
+  border: none; /* Remove borders */
+  padding: 10px 0; /* Adjust padding */
+  list-style: none; /* Remove default list styles */
+}
+
+.list-group-item::before {
+  content: '\2714'; /* Tick icon */
+  position: absolute;
+  left: -30px; /* Adjust icon position */
+}
+
+/* Alternate background color */
+.list-group-item:nth-child(even) {
+  /* background-color: #f8f9fa; */
+}
+.enquiry-form {
+  background-color: rgb(172, 226, 225,0.5); /* Background color */
+  padding: 20px; /* Add padding */
+  border-radius: 8px; /* Add border radius for rounded corners */
+}

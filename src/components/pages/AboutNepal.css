@@ -1,0 +1,56 @@
+#nepal-flag{
+    width: 107%;
+}
+#gallery-section{
+    padding: 20px 50px;
+    background-color: #f7f7f7;
+    margin-top: 30px;
+    margin-bottom: 20px;
+}
+#gallery-text{
+    text-align: center;
+}
+#explore{
+    margin-top: 40px;
+}
+#key-nepal{
+    padding: 20px 40px;
+    background-color: #f5f5f5;
+}
+
+.hentry, .widget {
+    margin: 0 0 20px;
+}
+.entry-header{
+    display: block;
+}
+.entry-title, .entry-title a {
+    color: #404040;
+    font-size: 30px;
+}
+
+.entry-content p{
+    
+        font-family: 'Khula', sans-serif;
+        font-weight: 400;
+        text-decoration: none;
+        text-transform: none;
+        margin-bottom: 20px;
+}
+#content {
+    width: 100%;
+    height: 100%;
+}
+.wrapper{
+    padding: 20px;
+}
+.no-sidebar.full-width #main {
+    width: 100%;
+}
+/* #main {
+    float: left;
+    width: 820px;
+} */
+#post-473{
+    padding: 20px 50px;
+}
