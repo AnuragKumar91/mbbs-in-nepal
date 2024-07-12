@@ -3,6 +3,7 @@ import Carousel from "react-multi-carousel";
 import "react-multi-carousel/lib/styles.css";
 import "./StudentReview.css"
 import PersonIcon from "../../assets/Anurag.jpeg"
+import Icon from "../../assets/person.png"
 import { Link } from 'react-router-dom';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faFacebook, faInstagram, faLinkedin, faXTwitter } from '@fortawesome/free-brands-svg-icons';
@@ -368,7 +369,7 @@ const StudentReview = () => {
             <div className="item">
             <div class="row member-content">
 				<div class="col-sm-3 col-sm-offset-1 member-thumb  fade-right in">
-					<img class="img-responsive img-center img-thumbnail img-circle" src={PersonIcon} alt=""/>
+					<img class="img-responsive img-center img-thumbnail img-circle" src={Icon} alt=""/>
 					<h4>Anurag Kumar</h4>
 					<p class="title">Software Developer  </p>
 				</div>

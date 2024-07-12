@@ -10,6 +10,7 @@ import Slider from "./components/Slider";
 import Course from "./components/pages/Course";
 import AboutNepal from "./components/pages/AboutNepal";
 import Exam from "./components/pages/Exam";
+import University from "./components/pages/University";
 
 function App() {
   return (
@@ -28,6 +29,7 @@ function App() {
           <Route path="/mbbs-course-in-nepal" element={<Course />}></Route>
           <Route path="/about-nepal" element={<AboutNepal />}></Route>
           <Route path="/mbbs-exam-in-nepal" element={<Exam/>}></Route>
+          <Route path="/mbbs-list-of-university-in-nepal" element={<University/>}></Route>
         </Routes>
 
         <Footer />

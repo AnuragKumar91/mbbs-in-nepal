@@ -1,6 +1,6 @@
 import React from 'react'
 import "./Mbbs.css"
-import StudyIcon from "../../assets/study-icon.png"
+import StudyIcon from "../../assets/stu-icon.png"
 import EligiIcon from "../../assets/eligi-icon.png"
 import PrepIcon from "../../assets/prerp-icon.png"
 import BenfeIcon from  "../../assets/bene-icon.png" 
@@ -24,7 +24,7 @@ const MbbsCard = () => {
 
 
             <StudyCard icon={StudyIcon} heading="Study in Top MBBS College in Nepal" description="Lorem ipsum dolor sit amet consectetur adipisicing elit. Placeat aspernatur totam amet iure similique eaque aperiam libero necessitatibus tempora incidunt!"/>
-            <StudyCard icon={EligiIcon} heading="Eligibilty Criteria to Study MBBS in Neapl " description="Lorem ipsum dolor sit amet consectetur adipisicing elit. Placeat aspernatur totam amet iure similique eaque aperiam libero necessitatibus tempora incidunt!"/>
+            <StudyCard icon={EligiIcon} heading="Eligibilty Criteria to Study MBBS in Nepal " description="Lorem ipsum dolor sit amet consectetur adipisicing elit. Placeat aspernatur totam amet iure similique eaque aperiam libero necessitatibus tempora incidunt!"/>
             <StudyCard icon={BenfeIcon} heading="Benefits of Study MBBS in Nepal" description="Lorem ipsum dolor sit amet consectetur adipisicing elit. Placeat aspernatur totam amet iure similique eaque aperiam libero necessitatibus tempora incidunt!"/>
             <StudyCard icon={PrepIcon} heading="Preparation Tips of MBBS in Nepal " description="Lorem ipsum dolor sit amet consectetur adipisicing elit. Placeat aspernatur totam amet iure similique eaque aperiam libero necessitatibus tempora incidunt!"/>
 
